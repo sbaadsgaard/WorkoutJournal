@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WorkoutJournal</string>
+    <string name="txt_no_workouts">You don\'t have any active workouts</string>
+    <string name="btn_label_launch">Launch workout</string>
 </resources>
