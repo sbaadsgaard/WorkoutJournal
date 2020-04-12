@@ -1,0 +1,2 @@
+rootProject.name='WorkoutJournal'
+include ':app'
